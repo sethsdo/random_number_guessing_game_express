@@ -1,0 +1,13 @@
+div.box{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+div.incorrect{
+    background-color: red;
+}
+div.correct{
+    background-color: green;
+}
